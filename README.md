@@ -1,5 +1,5 @@
-# GRiD_Compass_1101_CCRPOM_source
-Attempt to create GRiD Compass 1101 rev3 CCRPOM source code.
+# GRiD_Compass_1101_CCPROM_source
+Attempt to create GRiD Compass 1101 rev3 CCPROM source code.
 
 Initial disassembly was generetated with IDA 7.6 pro
 Then it was translates to source code for Flat Assembler (fasmg)
