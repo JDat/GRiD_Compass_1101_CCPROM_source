@@ -15,6 +15,6 @@ Available ROM dumps and source code:
 
 1109 by CM and Tomasz + source code
 
-1129 by username and Kirill
+1129 by usernameak and Kirill
 
 1139 by Klyball (also available on RuGRiD and vcfed forum)
